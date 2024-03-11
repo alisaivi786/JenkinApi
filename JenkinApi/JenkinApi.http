@@ -1,4 +1,4 @@
-@JenkinApi_HostAddress = http://localhost:5036
+@JenkinApi_HostAddress = http://localhost:5158
 
 GET {{JenkinApi_HostAddress}}/weatherforecast/
 Accept: application/json
